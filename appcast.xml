@@ -6,16 +6,16 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 3.0.2</title>
+        <title>Version 3.0.3</title>
         <description>
           <![CDATA[
             <ul>
-              <li>App icon fixes.</li>
+              <li>Git bug fixes.</li>
             </ul>
           ]]>
         </description>
-        <pubDate>Sat, 26 Jul 2016 20:02:06 +0700</pubDate>
-        <enclosure url="https://raw.githubusercontent.com/indevizible/AndroidFeeder/master/AndroidFeeder.zip" sparkle:version="3.0.2" length="5591174" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCqP+RVwvA4pJZIPXr1SoKyHFbTcgIUAtcKmSHL7h4vQVmQMpDTsCbDKEs=" />
+        <pubDate>Wed, 16 Mar 2016 00:00:16 +0700</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/indevizible/AndroidFeeder/master/AndroidFeeder.zip" sparkle:version="3.0.3" length="5591206" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCqP+RVwvA4pJZIPXr1SoKyHFbTcgIUAtcKmSHL7h4vQVmQMpDTsCbDKEs=" />
       </item>
   </channel>
 </rss>
