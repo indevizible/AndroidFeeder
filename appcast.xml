@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>AndroidFeeder Changelog</title>
+    <link>https://raw.githubusercontent.com/indevizible/EasyTransition/master/appcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+      <item>
+        <title>Version 3.0</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Bug fixes.</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Sat, 26 Jul 2016 17:02:11 +0700</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/indevizible/EasyTransition/master/appcast.xml" sparkle:version="3.0" length="5608317" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCjW9XCF0+KoZjuxfi4eBcwt/7NJAIURbvCW3YOwHWdhhTS2EMqTp677FU=" />
+      </item>
+  </channel>
+</rss>
