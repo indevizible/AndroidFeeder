@@ -16,7 +16,7 @@
                 ]]>
             </description>
             <pubDate>Thu, 24 Mar 2016 10:36:16 +0700</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/indevizible/AndroidFeeder/master/release/3.0.5/AndroidFeeder.zip" sparkle:version="3.0.5" length="6622481" type="application/octet-stream" sparkle:dsaSignature="MCwCFH6SgvALldTMXt2RwU06ULY/oHebAhR4vIJ/FdE3qUM+TjrLONLrHuzCAQ==" />
+            <enclosure url="https://raw.githubusercontent.com/indevizible/AndroidFeeder/master/release/3.0.5/AndroidFeeder.zip" sparkle:version="8" length="6622481" type="application/octet-stream" sparkle:dsaSignature="MCwCFH6SgvALldTMXt2RwU06ULY/oHebAhR4vIJ/FdE3qUM+TjrLONLrHuzCAQ==" />
         </item>
         <item>
             <title>Version 3.0.4</title>
@@ -29,7 +29,7 @@
                 ]]>
             </description>
             <pubDate>Wed, 16 Mar 2016 00:59:48 +0700</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/indevizible/AndroidFeeder/master/AndroidFeeder.zip" sparkle:version="3.0.4" length="4655724" type="application/octet-stream" sparkle:dsaSignature="MC0CFF8Zfd4J13Ph/QK+ugjkTDHNnBB4AhUA9S26SYhDLSUSNyRunk3WCy/9drY=" />
+            <enclosure url="https://raw.githubusercontent.com/indevizible/AndroidFeeder/master/AndroidFeeder.zip" sparkle:version="7" length="4655724" type="application/octet-stream" sparkle:dsaSignature="MC0CFF8Zfd4J13Ph/QK+ugjkTDHNnBB4AhUA9S26SYhDLSUSNyRunk3WCy/9drY=" />
         </item>
     </channel>
 </rss>
