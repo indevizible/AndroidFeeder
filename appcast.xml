@@ -6,6 +6,18 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 8.0.1</title>
+            <description>
+                <![CDATA[
+                    <ul>
+                    <li>Customizable git and Android SDK path</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 24 Mar 2016 16:41:00 +0700</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/indevizible/AndroidFeeder/master/release/8.0.1/AndroidFeeder.zip" sparkle:version="8.0.1" length="6638925" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCccuRIUhnn1b1aRv9lyE+wnm5JBwIUViLgmtpONzX5OjH+Vzjc7wzK+5k=" />
+        </item>
+        <item>
             <title>Version 3.0.5</title>
             <description>
                 <![CDATA[
