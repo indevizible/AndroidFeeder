@@ -11,11 +11,13 @@
                 <![CDATA[
                     <ul>
                     <li>Fixed git not found bugs.</li>
+                    <li>Now you can re-open recent open project</li>
+                    <li>Fixed auto update not avaliable</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>Sat, 26 Mar 2016 14:58:56 +0700</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/indevizible/AndroidFeeder/master/release/8.0.2/AndroidFeeder.zip" sparkle:version="8.0.2" length="6607984" type="application/octet-stream" sparkle:dsaSignature="MCwCFCIYdnm9/LTSrrFWXsdxm6kSOATGAhQ5vzGEhN2SSstmjm+/yvPnUZZ3mw==" />
+            <pubDate>Sat, 26 Mar 2016 15:14:33 +0700</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/indevizible/AndroidFeeder/master/release/8.0.2/AndroidFeeder.zip" sparkle:version="8.0.2" length="6607848" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCQuUZvoUxpvO7vGfa2iigoYWPsQQIVANu3oBCzskWbKSwWBZC12E0RtOVM" />
         </item>
         <item>
             <title>Version 8.0.1</title>
