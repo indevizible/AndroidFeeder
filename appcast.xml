@@ -14,8 +14,8 @@
                     </ul>
                 ]]>
             </description>
-            <pubDate>Sat, 26 Mar 2016 14:28:31 +0700</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/indevizible/AndroidFeeder/master/release/8.0.2/AndroidFeeder.zip" sparkle:version="8.0.2" length="6607899" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCccuRIUhnn1b1aRv9lyE+wnm5JBwIUViLgmtpONzX5OjH+Vzjc7wzK+5k=" />
+            <pubDate>Sat, 26 Mar 2016 14:58:56 +0700</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/indevizible/AndroidFeeder/master/release/8.0.2/AndroidFeeder.zip" sparkle:version="8.0.2" length="6607984" type="application/octet-stream" sparkle:dsaSignature="MCwCFCIYdnm9/LTSrrFWXsdxm6kSOATGAhQ5vzGEhN2SSstmjm+/yvPnUZZ3mw==" />
         </item>
         <item>
             <title>Version 8.0.1</title>
