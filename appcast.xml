@@ -6,6 +6,20 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 8.0.3</title>
+            <description>
+                <![CDATA[
+                    <ul>
+                    <li>Fixed git not found bugs.</li>
+                    <li>Now you can re-open recent open project</li>
+                    <li>Fixed auto update not avaliable</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Sat, 26 Mar 2016 16:22:06 +0700</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/indevizible/AndroidFeeder/master/release/8.0.2/AndroidFeeder.zip" sparkle:version="8.0.3" length="6607821" type="application/octet-stream" sparkle:dsaSignature="MC0CFQC6/wlAOnG4W3iyBrtm68tydiILfAIUPfj35Hg0nOltWbXEvuP57h69dBI=" />
+        </item>
+        <item>
             <title>Version 8.0.2</title>
             <description>
                 <![CDATA[
