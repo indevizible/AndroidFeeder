@@ -6,6 +6,18 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 8.0.4</title>
+            <description>
+                <![CDATA[
+                    <ul>
+                    <li>Update android version.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 19 May 2016 16:57:48 +0700</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/indevizible/AndroidFeeder/master/release/8.0.2/AndroidFeeder.zip" sparkle:version="8.0.4" length="6620345" type="application/octet-stream" sparkle:dsaSignature="MCwCFCZ5FoycKCkUbd4cZGEZ/MicmxrPAhQe6FfDiclW7Gc/CD6ygnNEQhUQNA==" />
+        </item>
+        <item>
             <title>Version 8.0.3</title>
             <description>
                 <![CDATA[
